@@ -1,0 +1,21 @@
+open
+calculate
+search
+what
+who
+today date
+time
+change background
+news
+date
+logoff
+sign out
+shutdown
+play music
+weather
+write note
+show note
+empty recycle bin
+exit
+wikipedia -> like wikipedia bill gates
+
